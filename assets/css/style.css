@@ -1,0 +1,50 @@
+h1{
+    color:red;
+}
+.jumbotron-fluid{
+    padding-top: 1%;
+    padding-bottom: 2%;
+    background-color: peru;
+    text-align: center;
+    font-family: fantasy;
+    border-spacing: 2px;
+    border-color: red;
+    border-style: double dotted;
+    height: auto;
+}
+.Headingdisplay{
+    text-align: center;
+    color: red;
+}
+#trainAddTab{
+    color: white;
+    font-family: fantasy;
+}
+#trainAdd{
+    background-color: black;
+    height: 28px;
+}
+
+.containerFrm{
+    border-style: ridge;
+}
+.form-container{
+    border-color: aqua;
+
+}
+.table-container{
+    Border-style: solid red;
+}
+.main-heading{
+    color:peru;
+    background-color: chocolate;
+    font-family: fantasy;
+}
+.thead-dark{
+    font-family: fantasy;
+}
+#train-table{
+    border-style: ridge;
+    font-family: sans-serif;
+
+}
